@@ -17,7 +17,7 @@ public class AppTest
 
     @Test
     public void testApp() {
-        assertEquals(app.getBool(), true);
+        assertEquals(app.getBool(), false);
     }
 
 }
